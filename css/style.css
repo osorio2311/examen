@@ -1,0 +1,52 @@
+#nav{
+    background-color: gray;
+    box-shadow: 10px 5px 0px 0px;
+    width: 100%;
+}
+#menu{
+    list-style: none;
+    padding: 0;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding: 20px 0px;
+}
+#menu li{
+    display: inline;
+    margin: 5px;
+    padding: 50px 20px;
+}
+table{
+    width: 8%;
+    margin: auto;
+}
+table,td,th{
+    border: 5px ridge white;
+    border-collapse: collapse;
+    background-color: gray;
+}
+td,th{
+    padding: 15px;
+    text-align: center;
+}
+
+.centrar-listas {
+    text-align: center;
+}
+.centrar-listas ul {
+    text-align: left;
+    display: inline-block;
+}
+#boton{
+    text-align: center;
+}
+#boton1{
+    background-color: gray;
+    padding: 10px 25px;
+    color: white;
+}
+#boton2{
+    background-color: gray;
+    padding: 10px 25px;
+    color: white;
+}
